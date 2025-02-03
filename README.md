@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/d2ee923e-66f8-4562-8adf-8ed3e70c25af)![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHh4RBAAO0BDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727964499292?e=1744243200&v=beta&t=yhals60ioCfdcoujoL4llR_2jft_j8reqq_aEDteQAQ)
 
 <h1 align="center">Hi 👋, I'm Niranjan Baviskar</h1>
 <h3 align="center">Full Stack Developer | Generative AI Enthusiast | Building Scalable & Intelligent Solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZ5050rQEycbVIQBiKTWyPa--q2wjYLQwjg&s">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanbaviskar&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanbaviskar" /> </p>
