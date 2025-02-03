@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
+![image](https://github.com/user-attachments/assets/d2ee923e-66f8-4562-8adf-8ed3e70c25af)![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
 
 <h1 align="center">Hi 👋, I'm Niranjan Baviskar</h1>
 <h3 align="center">Full Stack Developer | Generative AI Enthusiast | Building Scalable & Intelligent Solutions</h3>
