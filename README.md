@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanbaviskar&theme=react" alt="niranjanbaviskar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanbaviskar&theme=react&hide_border=true" alt="niranjanbaviskar" />
 </p>
 
 <p align="center">
