@@ -13,7 +13,7 @@
 - 🌱 Currently exploring **Generative AI** and **Blockchain**  
 - 🔗 Portfolio: [niranjan-baviskar.vercel.app](https://niranjan-baviskar.vercel.app/)  
 - 📧 Reach me at: **niranjanbaviskar23@gmail.com**  
-- 📝 Resume: [View Here](https://drive.google.com/file/d/1Y1EXZddFrVzx60QDFJG55wvNEql8-r4p/view?usp=sharing)  
+- 📝 Resume: [View Here](https://drive.google.com/file/d/1PYpU6bFfpW9NBUKg1_W68UvWtmMAvFSp/view?usp=sharing) 
 
 ---
 
