@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHh4RBAAO0BDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727964499292?e=1750896000&v=beta&t=JnxOo_yRzIqlznT7sPi0liT2PoHdU3dtVbeqbDGJFnM)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Baviskar</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | React Enthusiast | Tech Community Lead | Lifelong Learner</h3>
