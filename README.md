@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Baviskar</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | React Enthusiast | Tech Community Lead | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="(https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif)">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5MDAxMDMsIm5iZiI6MTc0NTg5OTgwMywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI5VDA0MTAwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YzcxZTc4NTExNzU3ZTY1ZDBjOTAxMTUzNzAyZDMxZTg5YTM2NDdiMzk1ZWUzYWUzYWQwMDZjYjU1Y2I1OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VDpT3r3LkX4pu8qeD4VHOy59e1BtaQenlpBa-l9iFn8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanbaviskar&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanbaviskar" /> </p>
 
