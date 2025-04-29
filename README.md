@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Baviskar</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | React Enthusiast | Tech Community Lead | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanbaviskar&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanbaviskar" /> </p>
 
