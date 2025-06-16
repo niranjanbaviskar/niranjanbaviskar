@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Baviskar</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | React Enthusiast | Tech Community Lead | Lifelong Learner</h3>
