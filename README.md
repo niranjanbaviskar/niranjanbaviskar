@@ -39,11 +39,11 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niranjanbaviskar&show_icons=true&theme=react&locale=en" alt="niranjanbaviskar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niranjanbaviskar&show_icons=true&theme=radical&locale=en" alt="niranjanbaviskar" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjanbaviskar&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjanbaviskar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
