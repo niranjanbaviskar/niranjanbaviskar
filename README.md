@@ -12,7 +12,7 @@
 
 - 🎓 Currently pursuing **Information Technology** at **Vishwakarma Institute of Information Technology, Pune**  
 - 🌱 Currently exploring **Generative AI** and **DevOps**  
-- 🔗 Portfolio: [niranjan-baviskar.vercel.app](https://niranjan-baviskar.vercel.app/)  
+- 🔗 Portfolio: [niranjan-baviskar.vercel.app](https://niranjanportfolio-umber.vercel.app/)  
 - 📧 Reach me at: **niranjanbaviskar23@gmail.com**  
 - 📝 Resume: [View Here](https://drive.google.com/file/d/1PYpU6bFfpW9NBUKg1_W68UvWtmMAvFSp/view?usp=sharing) 
 
